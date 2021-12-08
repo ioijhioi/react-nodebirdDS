@@ -12,7 +12,7 @@ const AppLayout = ({children}) => {
             </div>
             {children}
         </div>
-    )
+    ) 
 }
 
 AppLayout.propTypes = {
